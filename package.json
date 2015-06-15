@@ -1,0 +1,8 @@
+{
+  "name": "node-mail",
+  "version": "0.0.0",
+  "description": "email test",
+  "dependencies": {
+    "nodemailer": "^1.2.2"
+  }
+}
